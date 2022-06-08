@@ -1,0 +1,5 @@
+name int input_bps output_bps
+switch01 te1/0 34241 133252
+switch02 te2/0 22343433 522343342
+switch03 te3/0 23423 2342342
+switch04 te4/0 323423 232342342
